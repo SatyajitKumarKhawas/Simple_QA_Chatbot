@@ -60,8 +60,4 @@ requirements.txt
 ### ✨ Author
 
 **Satyajit Kumar Khawas**
-B.Tech CSE (Data Science), Techno Main Salt Lake
 
----
-
-Would you like me to include a short **requirements.txt** snippet too (for easy deployment)?
